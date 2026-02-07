@@ -13,3 +13,5 @@ The lab focuses on using Wireshark to capture and analyze network traffic, speci
 -  Comparing TCP and UDP in terms of reliability, ordering, use cases, and performance
 
 ---
+## Files
+ • Lab1.docx – Contains all lab answers, analysis, and screenshots.
